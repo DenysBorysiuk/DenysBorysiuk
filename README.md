@@ -11,11 +11,11 @@
 ---
 ## 📫 How to reach me: 
 
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) gmail
+[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denys-borysiuk/) Linkedin
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denys-borysiuk/) 
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-borysiuk/) 
 
 ---
 ## 💻 Tech Stack:
