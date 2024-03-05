@@ -10,12 +10,8 @@
 
 ---
 ## 📫 How to reach me: 
-
-[![My Skills](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev) 
-
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/denys-borysiuk/) 
-
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-borysiuk/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisborisiuk@gmail.com) 
 
 ---
 ## 💻 Tech Stack:
