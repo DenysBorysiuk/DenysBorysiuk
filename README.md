@@ -4,7 +4,8 @@
 - 🌱 I’m currently learning ...
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ![](https://komarev.com/ghpvc/?username=DenysBorysiuk)
+
+ ![](https://komarev.com/ghpvc/?username=DenysBorysiuk)
 
 ---
 ## 📫 How to reach me: 
