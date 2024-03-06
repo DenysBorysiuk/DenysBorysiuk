@@ -16,6 +16,12 @@
 ## 💻 Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,graphql)](https://skillicons.dev)
+
+
+---
+## ⚡ My stats:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DenysBorysiuk)](https://github.com/DenysBorysiuk/github-readme-stats)
 <!--
 **DenysBorysiuk/DenysBorysiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
