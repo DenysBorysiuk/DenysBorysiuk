@@ -27,7 +27,7 @@
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysBorysiuk&theme=nightowl" alt="Denys Borysiuk's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="DenysBorysiuk's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysBorysiuk&theme=cobalt&layout=compact" />
+      <img height="195px" align="right" alt="DenysBorysiuk's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysBorysiuk&theme=nightowl&layout=compact" />
     </td>
   </tr>
 </table>
