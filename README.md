@@ -24,7 +24,7 @@
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysBorysiuk&theme=dark" alt="Denys Borysiuk's Github stats" />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=DenysBorysiuk&theme=cobalt" alt="Denys Borysiuk's Github stats" />
     </td>
     <td>
       <img height="195px" align="right" alt="DenysBorysiuk's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DenysBorysiuk&theme=dark&layout=compact" />
