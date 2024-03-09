@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Denys, a Junior Full Stack Developer 
 
-- 🔭 I’m currently working on on implementing serverless architecture in Next.js to create highly scalable and cost-effective web applications with seamless deployment on platforms like Vercel
+- 🔭 I’m currently working on on implementing serverless architecture in Next.js to create highly scalable and cost-effective web applications with seamless deployment on platforms like Vercel.
 - 🌱 I’m constantly learning and improving my skills.
 - 😄 Pronouns: He/Him
 
