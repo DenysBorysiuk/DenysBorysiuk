@@ -14,18 +14,29 @@
 ---
 ## 💻 Tech Stack:
 #### Fontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 #### Programing languages
 [![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/DenysBorysiuk)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 #### Front-End Frameworks
 [![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/DenysBorysiuk)
-[![Next.js](https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/DenysBorysiuk)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 #### Back-End
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/DenysBorysiuk)
 
+#### Databases
+[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/DenysBorysiuk)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+#### Tools & Libs
 ---
 ## ⚙️ GitHub Analytics
 
