@@ -13,10 +13,17 @@
 
 ---
 ## 💻 Tech Stack:
-
-#### Languages
-[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
+#### Fontend
+#### Programing languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/DenysBorysiuk)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+#### Front-End Frameworks
+[![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=white)](https://github.com/DenysBorysiuk)
+[![Next.js](https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/DenysBorysiuk)
+
+#### Back-End
+[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/DenysBorysiuk)
 
 ---
 ## ⚙️ GitHub Analytics
