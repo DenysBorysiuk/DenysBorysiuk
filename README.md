@@ -11,11 +11,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:denisborisiuk@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/denys_borysiuk)
 
----
-### 💻 Tech Stack:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,react,redux,nextjs,nodejs,express,mongodb,graphql)](https://skillicons.dev)
+## 💻 Tech Stack:
 
+#### Languages
+[![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)](https://github.com/AndrewSavetchuk)
+[![TypeScript](https://img.shields.io/badge/TypeScript-007BCD?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 
 ---
 ### ⚙️ GitHub Analytics
