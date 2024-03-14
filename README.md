@@ -23,7 +23,7 @@
 [![Next.js](https://img.shields.io/badge/next.js-282c34?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/DenysBorysiuk)
 
 #### Back-End
-[![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/DenysBorysiuk)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 [![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/DenysBorysiuk)
 
 ---
