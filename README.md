@@ -24,6 +24,7 @@
 
 #### Back-End
 [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://github.com/DenysBorysiuk)
+[![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/DenysBorysiuk)
 
 ---
 ## ⚙️ GitHub Analytics
