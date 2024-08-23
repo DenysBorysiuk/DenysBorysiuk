@@ -39,7 +39,7 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-0FA14C?style=for-the-badge&logo=mongodb&logoColor=white)](https://github.com/DenysBorysiuk)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
-#### Bundlers's
+#### Bundlers
 [![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
